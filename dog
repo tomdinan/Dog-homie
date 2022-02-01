@@ -1,13 +1,14 @@
-70,Black;chocolate;yellow,Middle,Short,Labrador Retreiver
-70,Black;chocolate;yellow,Middle,Medium,German Shepard
-65,Golden;Yellow,Low,Medium,Golden Retriever 
-28,Brindle;cream;white,Low,Short,French Bulldog
-14,Black;brindle;golden,Middle,Long,Shiz Tzu
-60,Black;Red;Cream,High,Long,Poodle
-20,Black;Brown;Tan;White,High,Short,Beagles
-100,Black;Tan;Rust,Low,Short,Rottweilers
-30,Black;Red;Tan,High,Short,Corgis
-16,Black;Chocolate;Red;Fawn,High,Medium,Dachshunds
-7,Black;Golden,High,Long,Yorkshire Terriers 
-140,Black;White;Chocolate;Fawn,Middle,Short,Great Danes
-15,Black;Tan;White,Middle,Medium,Cavalier King Charles Spaniel 
+Weight,Color,Barking_level,Coat_Length,Breed,Picture
+70,Black;Chocolate;Yellow,Middle,Short,Labrador Retreiver,https://raw.githubusercontent.com/syoco28/DogFriends/main/1200px-Labrador_Retriever_(1210559).jpg
+70,Black;Chocolate;Yellow,Middle,Medium,German Shepard,https://raw.githubusercontent.com/syoco28/DogFriends/main/german%20shepard%20jpg.jpg
+65,Golden;Yellow,Low,Medium,Golden Retriever ,https://raw.githubusercontent.com/syoco28/DogFriends/main/GoldenPuppy185743593-56a9c1f23df78cf772aa4a33.jpg
+28,Brindle;Cream;White,Low,Short,French Bulldog,https://raw.githubusercontent.com/syoco28/DogFriends/main/A_French_Bulldog.jpg
+14,Black;Brindle;Golden,Middle,Long,Shiz Tzu,https://raw.githubusercontent.com/syoco28/DogFriends/main/Shih_Tzu_puppy_-_20070802.jpg
+60,Black;Red;Cream,High,Long,Poodle,https://raw.githubusercontent.com/syoco28/DogFriends/main/poodle%20jpg.jpg
+20,Black;Brown;Tan;White,High,Short,Beagles,https://raw.githubusercontent.com/syoco28/DogFriends/main/file_23012_beagle.jpg
+100,Black;Tan;Rust,Low,Short,Rottweilers,https://raw.githubusercontent.com/syoco28/DogFriends/main/Rottweiler-Head.jpg
+30,Black;Red;Tan,High,Short,Corgis,https://raw.githubusercontent.com/syoco28/DogFriends/main/corgis%20jpg.jpg
+16,Black;Chocolate;Red;Fawn,High,Medium,Dachshunds,https://raw.githubusercontent.com/syoco28/DogFriends/main/Dachshund_brown_puppy.jpg
+7,Black;Golden,High,Long,Yorkshire Terriers ,https://raw.githubusercontent.com/syoco28/DogFriends/main/Blue_and_Tan_Yorkshire_Terrier.jpg
+140,Black;White;Chocolate;Fawn,Middle,Short,Great Danes,https://raw.githubusercontent.com/syoco28/DogFriends/main/Great-Dane-On-White-01.jpg
+15,Black;Tan;White,Middle,Medium,Cavalier King Charles Spaniel ,https://raw.githubusercontent.com/syoco28/DogFriends/main/284780-800x533-cavalier-king-charles-spaniel.jpg
